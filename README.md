@@ -1,3 +1,3 @@
 # Satisfaction-TA
 
-## Satisfaction-aware Task Assignment in Spatial Crowdsourcing
+Satisfaction-aware Task Assignment in Spatial Crowdsourcing
